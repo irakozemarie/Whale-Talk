@@ -1,6 +1,5 @@
 // Step 1: Create a variable named input
-const input = 'Hello, momygit status
-';
+const input = 'Hello, momy';
 
 // Step 2: Create an array named vowels
 const vowels = ['a', 'e', 'i', 'o', 'u'];
